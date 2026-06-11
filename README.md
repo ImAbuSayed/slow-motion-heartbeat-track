@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/slow-motion-heartbeat-track/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Slow Motion Heartbeat Track](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/slow-motion-heartbeat-track/) |
+| **Get License** | [Secure Licensing Rights for Slow Motion Heartbeat Track](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/slow-motion-heartbeat-track/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `aaf004bfae0f2ed098ad14206361864817e80980812279e83b3f24a369ea105b` |
 | **Timestamp** | June 12, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
